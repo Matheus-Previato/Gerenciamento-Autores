@@ -35,6 +35,6 @@ public class AutorModel {
     public void setNacionalidade(String nacionalidade) { this.nacionalidade = nacionalidade; }
 
     public LocalDate getDataNascimento() { return dataNascimento; }
-    
+
     public void setDataNascimento(LocalDate dataNascimento) { this.dataNascimento = dataNascimento; }
 }
